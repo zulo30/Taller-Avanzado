@@ -1,26 +1,25 @@
-# Taller de Shaders
+# Taller Unity Avanzado
 
 Trabajo de Computación Gráfica | Universidad EIA ![logo eia](https://github.com/EIA-University/LogosEIA/blob/master/assets/png/logo-eia-icon.png?raw=true)
 
-[https://github.com/zulo30/Monkey-Hologram](https://github.com/zulo30/Monkey-Hologram)
+[https://github.com/zulo30/Taller-Avanzado](https://github.com/zulo30/Taller-Avanzado)
 
 ## Desarrollo :rocket:
 
-En este proyecto se realizo Shader que simula el efecto de un holograma com se puede ver en la imagen:
+En este proyecto se realizo una animación que gráfica las siguientes funciones periódicas usando el tiempo como variable independiente:
 
-![Alt Text](https://media.giphy.com/media/uzFINRMeelUbVQAKJC/giphy.gif)
+- Seno
+- Coseno
+- Cuadrada
+- Diente de sierra
 
-se utilizo el siguiente grafo para realizar para shader:
+### ejemplo:
 
-![Imagen del Grafo ](/Images/ShaderGraph.png)
+![Alt Text](https://media.giphy.com/media/9Zm6nAKvw74NI9Gn4E/giphy.gif)
 
 ### Pre-requisitos
 
 - Unity Game Engine [https://unity.com/es](https://unity.com/es)
-
-## Recursos
-
-- Shaders Graph Documentation | [https://docs.unity3d.com](https://docs.unity3d.com/Packages/com.unity.shadergraph@6.9/manual/Node-Library.html)
 
 ## Contribuir:
 

@@ -21,6 +21,11 @@ En este proyecto se realizo una animación que gráfica las siguientes funciones
 
 - Unity Game Engine [https://unity.com/es](https://unity.com/es)
 
+## Miembros:
+
+- Youlvis Jimenez
+- Mateo Zuluaga Loaiza
+
 ## Contribuir:
 
 Por favor lee el [CONTRIBUTING.md]() para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
